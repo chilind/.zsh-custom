@@ -1,0 +1,7 @@
+alias ni='npm install'
+alias nrs='npm start'
+alias nrb='npm run build'
+alias nrbd='npm run build:dev'
+alias nrd='npm run dev'
+alias nrt='npm run test'
+alias nrtw='npm run test:watch'
